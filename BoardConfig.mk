@@ -19,6 +19,9 @@ DEVICE_PATH := device/xiaomi/alioth
 # Board
 TARGET_BOARD_INFO_FILE := $(DEVICE_PATH)/board-info.txt
 
+# Gestures
+TARGET_TAP_TO_WAKE_NODE := "/sys/touchpanel/double_tap"
+
 # Hacks
 BUILD_BROKEN_VENDOR_PROPERTY_NAMESPACE := true
 

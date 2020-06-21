@@ -58,6 +58,7 @@ PRODUCT_SOONG_NAMESPACES += \
 PRODUCT_PACKAGES += \
     AliothFrameworks \
     AliothSystemUI \
+    AOSPAAliothFrameworks
 
 # Project ID Quota
 $(call inherit-product, $(SRC_TARGET_DIR)/product/emulated_storage.mk)
