@@ -54,6 +54,10 @@ PRODUCT_PROPERTY_OVERRIDES += \
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
 
+# Overlays
+PRODUCT_PACKAGES += \
+    AliothFrameworks
+
 # Project ID Quota
 $(call inherit-product, $(SRC_TARGET_DIR)/product/emulated_storage.mk)
 
