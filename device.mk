@@ -65,7 +65,9 @@ PRODUCT_PACKAGES += \
     AliothFrameworks \
     AliothSettings \
     AliothSystemUI \
-    AOSPAAliothFrameworks
+    AOSPAAliothFrameworks \
+    SettingsOverlayM2012K11AG \
+    SettingsOverlayM2012K11AI
 
 # Project ID Quota
 $(call inherit-product, $(SRC_TARGET_DIR)/product/emulated_storage.mk)
