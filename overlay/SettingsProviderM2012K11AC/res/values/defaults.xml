@@ -17,6 +17,9 @@
  */
 -->
 <resources>
+    <!-- Default for Settings.Global.DEVICE_NAME $1=MANUFACTURER $2=MODEL-->
+    <string translatable="false" name="def_device_name translatable="false">Xiaomi Redmi K40</string>
+
     <!-- Default for Settings.Global.DEVICE_NAME $1=MODEL-->
-    <string name="def_device_name_simple" translatable="false">Redmi K40</string>
+    <string translatable="false" name="def_device_name_simple translatable="false">Redmi K40</string>
 </resources>
