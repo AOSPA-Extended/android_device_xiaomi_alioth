@@ -22,4 +22,18 @@
     <!-- Whether usage of the proximity sensor during doze is supported -->
     <bool name="doze_proximity_sensor_supported">false</bool>
 
+    <!-- Configure extra protection around the front-facing camera -->
+    <string translatable="false" name="config_frontBuiltInDisplayCutoutProtection">
+        M 500,52
+        a 35,35 0 1 0 82,0 35,35 0 1 0 -82,0
+        Z
+    </string>
+  
+    <!-- Camera 1 is the front camera on bramble -->
+    <string translatable="false" name="config_protectedCameraId">1</string>
+  
+    <!-- Comma-separated list of packages to exclude from camera protection. In our case,
+    ignore the gaze detection package -->
+    <string translatable="false" name="config_cameraProtectionExcludedPackages">com.google.android.as</string>
+
 </resources>
