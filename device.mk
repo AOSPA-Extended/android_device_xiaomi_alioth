@@ -66,6 +66,7 @@ PRODUCT_PACKAGES += \
     AliothSettings \
     AliothSystemUI \
     AOSPAAliothFrameworks \
+    AOSPAAliothSettings \
     SettingsOverlayM2012K11AG \
     SettingsOverlayM2012K11AI \
     SettingsProviderM2012K11AC \
