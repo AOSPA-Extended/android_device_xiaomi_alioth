@@ -56,6 +56,16 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libwpa_client
 
+# Init
+PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/init/fstab.qcom:$(TARGET_COPY_OUT_VENDOR_RAMDISK)/first_stage_ramdisk/fstab.qcom
+
+PRODUCT_PACKAGES += \
+    fstab.qcom \
+    init.alioth.rc \
+    init.mi.btmac.sh \
+    ueventd.alioth.rc
+
 # Keyboard bottom padding in dp for portrait mode
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.com.google.ime.height_ratio=1.0 \

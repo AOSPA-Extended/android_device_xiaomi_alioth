@@ -30,8 +30,14 @@ ODM_MANIFEST_SKUS += alioth
 ODM_MANIFEST_ALIOTH_FILES := \
     $(DEVICE_PATH)/configs/vintf/manifest-nfc.xml
 
+# Init
+TARGET_INIT_VENDOR_LIB := //$(DEVICE_PATH):libinit_alioth
+
 # Hacks
 BUILD_BROKEN_VENDOR_PROPERTY_NAMESPACE := true
 
 # Kernel
 KERNEL_DEFCONFIG := alioth_defconfig
+
+# Recovery
+TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/init/fstab.qcom
