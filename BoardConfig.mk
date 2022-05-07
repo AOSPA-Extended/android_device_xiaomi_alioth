@@ -23,8 +23,10 @@ TARGET_BOARD_INFO_FILE := $(DEVICE_PATH)/board-info.txt
 TARGET_TAP_TO_WAKE_NODE := "/sys/touchpanel/double_tap"
 
 # HIDL
-ODM_MANIFEST_SKUS += alioth
+DEVICE_FRAMEWORK_COMPATIBILITY_MATRIX_FILE += \
+    $(DEVICE_PATH)/configs/vintf/xiaomi_vendor_framework_compatibility_matrix.xml
 
+ODM_MANIFEST_SKUS += alioth
 ODM_MANIFEST_ALIOTH_FILES := \
     $(DEVICE_PATH)/configs/vintf/manifest-nfc.xml
 
