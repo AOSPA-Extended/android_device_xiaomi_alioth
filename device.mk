@@ -31,6 +31,9 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.vendor.audio.zoom.support=true \
     ro.vendor.audio.zoom.type=1 \
 
+PRODUCT_COPY_FILES += \
+    $(call find-copy-subdir-files,*,$(LOCAL_PATH)/configs/audio/,$(TARGET_COPY_OUT_VENDOR)/etc)
+
 # Display
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.surface_flinger.set_idle_timer_ms=1500 \
