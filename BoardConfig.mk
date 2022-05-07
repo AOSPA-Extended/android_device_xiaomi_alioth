@@ -22,6 +22,12 @@ TARGET_BOARD_INFO_FILE := $(DEVICE_PATH)/board-info.txt
 # Gestures
 TARGET_TAP_TO_WAKE_NODE := "/sys/touchpanel/double_tap"
 
+# HIDL
+ODM_MANIFEST_SKUS += alioth
+
+ODM_MANIFEST_ALIOTH_FILES := \
+    $(DEVICE_PATH)/configs/vintf/manifest-nfc.xml
+
 # Hacks
 BUILD_BROKEN_VENDOR_PROPERTY_NAMESPACE := true
 
