@@ -41,3 +41,6 @@ KERNEL_DEFCONFIG := alioth_defconfig
 
 # Recovery
 TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/init/fstab.qcom
+
+# SEPolicy
+-include device/xiaomi/alioth-sepolicy/alioth-sepolicy.mk
