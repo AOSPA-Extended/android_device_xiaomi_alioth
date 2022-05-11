@@ -1,0 +1,2 @@
+# Sound Device
+type audio_socket, file_type;
