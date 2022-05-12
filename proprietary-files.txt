@@ -64,19 +64,19 @@ vendor/etc/mixer_paths_overlay_dynamic.xml|893f2ccd59194fc6e57ed47ad26e74b1ddf2d
 vendor/etc/sound_trigger_mixer_paths.xml|c674e5b33fc4c444c31da43344a88c82dd590e15
 vendor/etc/sound_trigger_platform_info.xml|759023d5690a3e1bc58bd929ef1db017074be437
 
-# Audio - MIUI
+# Audio - MIUI 13.0.3.0.EU
 vendor/bin/audioflacapp|057a413148d32f59e8ec88373c0102c7f3e36e47
 vendor/etc/acdbdata/Forte/Forte_Bluetooth_cal.acdb|eebb4f60d46090987818ae137bad5586b28002c2
 vendor/etc/acdbdata/Forte/Forte_General_cal.acdb|3d803b01b70545be87b60e34a8d44d1f9a6306f4
-vendor/etc/acdbdata/Forte/Forte_Global_cal.acdb|03e8365c5d1b394282e1cf4fc729c2fe875fe54f
+vendor/etc/acdbdata/Forte/Forte_Global_cal.acdb|98de040906b73f5951bf8519a7e73818d51dbf7c
 vendor/etc/acdbdata/Forte/Forte_Handset_cal.acdb|735dfc72aaba89edc978985cb2a18c95568b9998
 vendor/etc/acdbdata/Forte/Forte_Hdmi_cal.acdb|2e0774284b91600884a4a2e72010a0ae3188ede5
-vendor/etc/acdbdata/Forte/Forte_Headset_cal.acdb|ab1d463baa22549a530fca57a0e25edc7f73b1b1
+vendor/etc/acdbdata/Forte/Forte_Headset_cal.acdb|3486b1ce1a0fc5cb55b0455cd0c2ae4c8645d98a
 vendor/etc/acdbdata/Forte/Forte_Speaker_cal.acdb|e860777c66df13ede0a2d088236348da0bedcb47
-vendor/etc/acdbdata/Forte/Forte_workspaceFile.qwsp|e776224892b890d7742c4d52d5b619690ccbb502
+vendor/etc/acdbdata/Forte/Forte_workspaceFile.qwsp|fc49cf0f493262ebd32d594ce0a4639b20176e21
 vendor/etc/acdbdata/adsp_avs_config.acdb|51f049b97e1d0b56faa1cf3713682899f7522c1a
-vendor/lib/hw/audio.primary.kona.so|02f0714c661e69d9cedd8526122a51b4aff3de3a
-vendor/lib/hw/sound_trigger.primary.kona.so|66a4ed5c280ee4731962d73387052b4453a8752e
+vendor/lib/hw/audio.primary.kona.so|6ec944afd6270b66eb461392f36301bca87f59ce
+vendor/lib/hw/sound_trigger.primary.kona.so|057bc9aa9dd6642fb82398944069b7fdcf33a592
 vendor/lib/hw/vendor.qti.hardware.audiohalext@1.0-impl.so|bd261c850987d4423b3e91f8fb6eed8b4304ea46
 vendor/lib/libAlacSwDec.so|ac988f5135174cd5292bcdf6e6e2669ce5932b48
 vendor/lib/libApeSwDec.so|ba1aca4c4412fd7d8c85bf468b516819857b51f0
@@ -96,9 +96,9 @@ vendor/lib/libOmxMpeghDecSw.so|7e4f114100505460e8be211e7ba4801fecaeda22
 vendor/lib/libOmxMpeghEncSw.so|65ecb0e72f1cc40543490b0ad7e72c3e2df84e65
 vendor/lib/libOmxQcelp13Dec.so|ba2d6f95a9101d21e203912c0fef525d82fa2b7b
 vendor/lib/libOmxWmaDec.so|957c893ef2c8be02a992cf121810baa0ea6787e2
-vendor/lib/liba2dpoffload.so|9dca039e42f0b6ec219d5770cf8c31c04a3aadfd
+vendor/lib/liba2dpoffload.so|0420b70fb6d525bf04e5eabb2842f524c0aa5f36
 vendor/lib/libacdb-fts.so|482cd0b2bec81c665db1028189eb707d47ca1283
-vendor/lib/libacdbloader.so|3267e0f1a70aaf6d8723c49090e8e294f9a5d299
+vendor/lib/libacdbloader.so|5783431072b9744e48ae053c15c418c94d38d7a2
 vendor/lib/libacdbrtac.so|3c049ac09d69d969d75732f9ed7920e24cbf641e
 vendor/lib/libadiertac.so|1bcfc9d5e9e692effcd446e0e8a5284ff4f6d0fa
 vendor/lib/libadm.so|499877db00ac0a1dd94db59a1a843d460d5fdb4e
@@ -118,21 +118,21 @@ vendor/lib/libgcs-calwrapper.so|4a2e1305e7b95362c1f091d4f0e22a26378db3ac
 vendor/lib/libgcs-ipc.so|6bfde375e726ba73bcb345f182354d5b1fe94989
 vendor/lib/libgcs-osal.so|7f592b86760afcf1c9f255cd8c645602ee1be56f
 vendor/lib/libgcs.so|005d53b83fb7e0c3089649ea4dc9058a5b1f30f6
-vendor/lib/libhdmipassthru.so|687db69e52440a7a30b1dfadb01457a0b58aace8
+vendor/lib/libhdmipassthru.so|92d689b11891e76d5c5337458aa23791326f69cd
 vendor/lib/liblistensoundmodel2.so|8614fdd54b08a3a1c63f645dc219a959b1b49673
 vendor/lib/libmulawdec.so|4ad85b4982bf0cfed77c9bede75aac09a51ab062
-vendor/lib/libqtigef.so|0024376ae4369002b0db8c29a8e2721144fdef7f
+vendor/lib/libqtigef.so|bbcd8afc34c5fc7af9827933e91802dcfa4ef5ef
 vendor/lib/libresampler.so|8edd3e46d46ad53469487f172219aec3a5a840b5
-vendor/lib/libsmwrapper.so|fcdca5ce035d00cdc985150fe7803b3bb67ed41f
-vendor/lib/libssrec.so|8d7c754560500af0423ea20ab4e7d7eae81690b3
+vendor/lib/libsmwrapper.so|643c3a94c7848a8d6f6c63ebda977ceb566dfdc8
+vendor/lib/libssrec.so|b15a4b822c65ca73ded410821b633e97823e4e46
 vendor/lib/libstagefright_soft_qtiflacdec.so|3f94437dc48e7ff5392308a7054c47bc59dd9b1c
 vendor/lib/libsurround_3mic_proc.so|1d425b4b0d89f68e0f0112e8f2f73b1cd5b6dea2
 vendor/lib/libtinycompress.so|22cacad0ec7618945b449e3b83e079aa9169a01b
 vendor/lib/vendor.qti.hardware.audiohalext@1.0.so|2a8bebab7997e5c84225f7429ed1cc91933aeaec
 vendor/lib/vendor.qti.voiceprint@1.0.so|48cf749a47ffe1dc626170a5578a1c8668ddbbdf
-vendor/lib/vndk/libxlog.so|002f0743c41d7cc39bee9ff31da9f40cf0429dac
-vendor/lib64/hw/audio.primary.kona.so|53ace771b9a2e5d8847adf2bb1d020f0d70dcbdc
-vendor/lib64/hw/sound_trigger.primary.kona.so|cd12200196013efdc369db7c24c5b96b50a8e4bf
+vendor/lib/vndk/libxlog.so|45b7bcc195801d8d6bd15e1bf381c8feb7a816ea
+vendor/lib64/hw/audio.primary.kona.so|c7da275d84f236cc19125c071cc4bd3b2fa613b9
+vendor/lib64/hw/sound_trigger.primary.kona.so|3e34637e267208a564c2bf2e2ac8046d89dd950f
 vendor/lib64/hw/vendor.qti.hardware.audiohalext@1.0-impl.so|9a88fff3841d3548e1f9ed12818c06528402177c
 vendor/lib64/libAlacSwDec.so|6b8d09b5adc9de2deb424301f95000b5f7ba1706
 vendor/lib64/libApeSwDec.so|f2f9157cd704807cd6117a1e3811810c6edb0e0f
@@ -153,7 +153,7 @@ vendor/lib64/libOmxWmaDec.so|3e2e36c2945681b5c658cffa08425414c957fea5
 
 # Audio FX - MIUI
 vendor/lib/soundfx/libasphere.so|44cd20e13920888b29d3b2e4bb0b2559a746bf8f
-vendor/lib/soundfx/libmisoundfx.so|ba52d9295dcc45b8e0de04652c1eae67b815084c
+vendor/lib/soundfx/libmisoundfx.so|92b202c61915d17f9797494e6568682206b89cee
 vendor/lib/soundfx/libqcbassboost.so|9e06ba7ad0e90047a3a85926091e8c4b527753ac
 vendor/lib/soundfx/libqcreverb.so|1343b8045b3df59457649c7526e10b3ece46d8f6
 vendor/lib/soundfx/libqcvirt.so|07536a2855d07b28c0ffcf147c18edf7e6cf4ef3
