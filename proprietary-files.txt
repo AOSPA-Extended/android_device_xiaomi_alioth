@@ -499,10 +499,10 @@ vendor/firmware/ipa_uc.b02|4c7bcc7e9e5285194d271931d31128a6a6660823
 vendor/firmware/ipa_uc.elf|592d4fd968fd3eb1fd569f179e82009f571aa371
 vendor/firmware/ipa_uc.mdt|fa39f9f539933c6733750f4b8d164d58a432d0d1
 
-# Fingerprint - MIUI
+# Fingerprint - MIUI 13.0.3.0.EU
 -vendor/framework/com.fingerprints.extension.jar|190f8631c968017120110b8765091f7a95c59d4e
-vendor/bin/hw/android.hardware.biometrics.fingerprint@2.1-service|43a1ceeccdc41b634a308eeef344dc0e9fb46249
-vendor/etc/init/android.hardware.biometrics.fingerprint@2.1-service.rc|0adcab77421b720a2a3a7a4b862e54d8bdef171e
+vendor/bin/hw/android.hardware.biometrics.fingerprint@2.1-service|d9ac899dc4bbd2ba28ae628772c4b4005dd3b329
+vendor/etc/init/android.hardware.biometrics.fingerprint@2.1-service.rc|b7ebf3f899906f3d8bb4db8d957984a1773edd20
 vendor/etc/permissions/com.fingerprints.extension.xml|de711d8827e1d321b22b60fd75a204e8928f9c6d
 -vendor/etc/vintf/manifest/android.hardware.biometrics.fingerprint@2.1-service.xml|49e82d6a43981e254d224dcc93b3ff27e0fb8407
 -vendor/etc/vintf/manifest/manifest_fpc.xml|3a6b28e508205b9d41aa660200cb76078841d4bf
