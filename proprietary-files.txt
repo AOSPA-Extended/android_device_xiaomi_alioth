@@ -630,7 +630,7 @@ vendor/etc/thermald-devices.conf|eda1af08fc834417e663e1cba9d4c1a645585d3c
 -vendor/lib/libthermalclient.so|d457d2d70aa9b0bf898e1ffa70a53284f17472cb
 -vendor/lib64/libthermalclient.so|d2ce63a5f0f9861c88217717ab5eec51b14e8571
 
-# Vibrator - MIUI
+# Vibrator - MIUI 13.0.3.0.EU
 vendor/firmware/AcousticGuitar_RTP.bin|200c1ff33288ba52295bceec23b0d492219dc74c
 vendor/firmware/Atlantis_RTP.bin|ff90dc0c3b91df8c0b481d0b0a5174079f32c806
 vendor/firmware/Bottle_RTP.bin|fec50c8415c8eea7118c50b39efae4bef883bf07
@@ -692,6 +692,7 @@ vendor/firmware/Ice_Latte_RTP.bin|e8f496abf00f0b521e92cde647789cec783424b3
 vendor/firmware/IncomingMessage_RTP.bin|b0806eda67bba82eaf8ef2fda683394edd6ee25d
 vendor/firmware/Kung_Fu_RTP.bin|d8d6b617ebdda3a5f83e2a20769c4bcace22877d
 vendor/firmware/Lollipop_RTP.bin|55938a485c2601102f2edff6f9795a703dcd8071
+vendor/firmware/MiMix2_RTP.bin|d5923ab4c43829c64be2ad1deaf0f8f75d95d9bc
 vendor/firmware/MIX_RTP.bin|9d9a3bf29544187dc4fcf41ebbfa1178c704380a
 vendor/firmware/MessageSent_RTP.bin|046765eba545efc4ab2ca4db47d7a01d20c16ce5
 vendor/firmware/MiClassicRemix_RTP.bin|ba39b5599dc00f209640ce36094c162dd58b33fa
@@ -714,6 +715,7 @@ vendor/firmware/Swoosh_RTP.bin|35a673111cbf62a6316edcb4cec48e0234079fd7
 vendor/firmware/ToyRobot_RTP.bin|708cd043ed44884874837fe2ea3ba5c72bfa5c6a
 vendor/firmware/Unlock_Failed_RTP.bin|4e1cf07ffa84b0af1adedeb00fc0671f6e40fe32
 vendor/firmware/Vigor_RTP.bin|3850816d503868956347da71c590480842a54f0a
+vendor/firmware/WindChime_RTP.bin|6c4dde299c873ffb2c16f59c403ca1b7d9ac4fd2
 vendor/firmware/alert_rtp.bin|e9b0725ad44c05230f2eb106a710b7dc0c76610c
 vendor/firmware/aw8697_haptic.bin|37721cb00ef2e50e6051de104605c061c9ef5f90
 vendor/firmware/aw8697_rtp_1.bin|9f32c9bf0776a566d3254129a028dae9bed76b81
