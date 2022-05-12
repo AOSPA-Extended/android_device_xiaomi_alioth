@@ -485,19 +485,19 @@ vendor/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so|afeca01f1fc
 # Consumer IR - MIUI
 vendor/lib64/hw/consumerir.default.so|017088aee275b32189a07179c8422a104599220c
 
-# Data - MIUI
+# Data - MIUI 13.0.3.0.EU
 vendor/firmware/ipa_fws.b00|7ee9b3855d94825e3ad588924377aee3f37a86ca
-vendor/firmware/ipa_fws.b01|95267cb10c02df72df1415cff85fa12d3eb41587
+vendor/firmware/ipa_fws.b01|c0cab10d29389289cc506a29b8922b4c3d72c4cc
 vendor/firmware/ipa_fws.b02|1ef321c36de80cef6706617c052c4f5c219f04df
 vendor/firmware/ipa_fws.b03|c07cfef57f8f694b4cee41e78700614efbedf2bc
 vendor/firmware/ipa_fws.b04|e20c91f1c7e833886d443bbf0cb33223e303583b
-vendor/firmware/ipa_fws.elf|591c2e0011a3c0eea59a65204bf6c208738f52e8
-vendor/firmware/ipa_fws.mdt|ad5d7a154cc97a2a07c0f717d0cb4c625db2eb8d
+vendor/firmware/ipa_fws.elf|848960fa8f6afbda8d5bfc1ef84e0d57519325bf
+vendor/firmware/ipa_fws.mdt|c6e5b4dae6e7d35e1a3a5db6c5f58c0dbbf90a23
 vendor/firmware/ipa_uc.b00|c469dae927f8645bdc82adf217a20170f3e5bb9f
-vendor/firmware/ipa_uc.b01|f84d40b38d35c91fb5be6a20797ff49339f8b075
+vendor/firmware/ipa_uc.b01|d864f0bc77581b80d1742f6d52fd46014e37fd6a
 vendor/firmware/ipa_uc.b02|4c7bcc7e9e5285194d271931d31128a6a6660823
-vendor/firmware/ipa_uc.elf|592d4fd968fd3eb1fd569f179e82009f571aa371
-vendor/firmware/ipa_uc.mdt|fa39f9f539933c6733750f4b8d164d58a432d0d1
+vendor/firmware/ipa_uc.elf|4e230c10d9b6fea2fdaadc7b0129422a1f2a1f84
+vendor/firmware/ipa_uc.mdt|ed9e72ee83d950d3dd42ffc07c08950189ff9690
 
 # Fingerprint - MIUI 13.0.3.0.EU
 -vendor/framework/com.fingerprints.extension.jar|190f8631c968017120110b8765091f7a95c59d4e
