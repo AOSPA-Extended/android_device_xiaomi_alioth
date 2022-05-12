@@ -28,6 +28,9 @@
     <!-- Default refresh rate while the device has high brightness mode enabled for HDR. -->
     <integer name="config_defaultRefreshRateInHbmHdr">60</integer>
 
+   <!-- If not zero, limits the internal screen recorder's framerate to the set value. -->
+    <integer name="config_screenRecorderMaxFramerate">120</integer>
+
     <!-- Not allow to switch to higher refresh rate when display brightness setting is
          equal or less than this value -->
     <integer-array name="config_brightnessThresholdsOfPeakRefreshRate">
