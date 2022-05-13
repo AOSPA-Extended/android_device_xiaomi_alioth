@@ -19,6 +19,9 @@
          this value to 0 so it has no effect. -->
     <integer name="config_defaultRefreshRate">0</integer>
 
+    <!-- Whether the display blanks itself when transitioning from a doze to a non-doze state -->
+    <bool name="config_displayBlanksAfterDoze">true</bool>
+
     <!-- The default peak refresh rate for a given device. -->
     <integer name="config_defaultPeakRefreshRate">120</integer>
 
