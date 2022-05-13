@@ -609,10 +609,10 @@ vendor/etc/sensors/config/tcs3701.json|9b921156bfa4d26c866b09934798b7e0f6bd4bb8
 vendor/etc/sensors/judge_calibrated.json|a1b0daeddae3a94763400f0067682a36bba6ee8b
 vendor/etc/sensors/sns_reg_config|cea8c9f674c039de77bb7f743d8a9122ab8b6897
 
-# Thermal - MIUI
-vendor/bin/mi_thermald|4dbe1518234eb1458f6975e57d949ebd604ae835
+# Thermal - MIUI 13.0.3.0.EU
+vendor/bin/mi_thermald|a1d722f18a50b8f4812d5aef0c48743be0081753
 vendor/bin/thermal-engine|c2ecf6444aa828d7fdbc9d196812f2b23b0d5f5e
-vendor/etc/init/init.mi_thermald.rc|93377ddf881f27dabb2918adbe7215934eb8531f
+vendor/etc/init/init.mi_thermald.rc|6505d89e19957888612d89f6769585a7d26af080
 vendor/etc/init/init_thermal-engine.rc|f0d14aa4734b2e8afd61a4eed73238187b268f48
 vendor/etc/thermal-camera.conf|65d8cb243cac4285a10487d4b43e97914a4f82f9
 vendor/etc/thermal-class0.conf|5daf08f2488b6bf05d24023eff507ac6624facb3
@@ -622,8 +622,8 @@ vendor/etc/thermal-india-mgame.conf|fda5b9fef4e24146ba430241eb100919f660c376
 vendor/etc/thermal-india-normal.conf|3ace701339810d147a2abf8cb8e77c1651c107c8
 vendor/etc/thermal-india-tgame.conf|085bf32b1cbe16516ee0adf4ac4f6e57ef4840a4
 vendor/etc/thermal-india-video.conf|bb15b873112319704323f219b382bd18b1996b56
-vendor/etc/thermal-map-india.conf|6e715e1a196f2fa7b44c3807123f1bdcc654ac81
-vendor/etc/thermal-map.conf|b551614a8ea54e037235b52b5c0b9d26f593dfdc
+vendor/etc/thermal-map-india.conf|fdee294162e90ba8c7b60c8aac3d3f3ac84f2fef
+vendor/etc/thermal-map.conf|0d6bddbb6ed8944465472bba53ba6f1ed6b53645
 vendor/etc/thermal-mgame.conf|2efef4d4ea8342eed5454e08c275e10517a3588e
 vendor/etc/thermal-navigation.conf|2c850b748b86b64102fe30a74af85a03ad6f1a5f
 vendor/etc/thermal-nolimits.conf|10a6903a0e56f052a9aed7225aeee293f9f27e91
