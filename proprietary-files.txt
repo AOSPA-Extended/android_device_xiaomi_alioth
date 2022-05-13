@@ -515,11 +515,11 @@ vendor/etc/permissions/com.fingerprints.extension.xml|de711d8827e1d321b22b60fd75
 vendor/lib64/hw/fingerprint.fpc.so|9baf1a01ece5730f1e09aa1ec768c50c60bed68d
 vendor/lib64/vendor.xiaomi.hardware.fingerprintextension@1.0.so|8610a0f066ae154ab8bcc6e636585b7db2293e72
 
-# HotwordEnrollment - MIUI
--product/priv-app/HotwordEnrollmentOKGoogleHEXAGON/HotwordEnrollmentOKGoogleHEXAGON.apk;PRESIGNED|cdd3a20db9e92953b562596e4d94b48efd80efa6
--product/priv-app/HotwordEnrollmentXGoogleHEXAGON/HotwordEnrollmentXGoogleHEXAGON.apk;PRESIGNED|3d8d7bd5879cc298956b328cf59ae3783ddc25e9
+# HotwordEnrollment - MIUI 13.0.3.0.EU
+-product/priv-app/HotwordEnrollmentOKGoogleHEXAGON/HotwordEnrollmentOKGoogleHEXAGON.apk;PRESIGNED|223fbebd3cdb1308a122da715d95f20801c6167e
+-product/priv-app/HotwordEnrollmentXGoogleHEXAGON/HotwordEnrollmentXGoogleHEXAGON.apk;PRESIGNED|98764f48a8a9b483329baed0b69dde18db3df607
 system_ext/etc/permissions/com.android.hotwordenrollment.common.util.xml|563a58554d9c0dd0608552b644fbf74519a447bb
-system_ext/framework/com.android.hotwordenrollment.common.util.jar|0492cd3db2e253e23b78e56fa8ea7b3a4b15edeb
+system_ext/framework/com.android.hotwordenrollment.common.util.jar|c764b636e0be426a66be09dd08ab9c1921327ef0
 
 # NFC - MIUI
 vendor/etc/libnfc-nxp_RF.conf|4fbc1ee7ede5ab587671258d178b0f6e171428b1
