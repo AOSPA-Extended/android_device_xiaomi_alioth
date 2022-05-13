@@ -22,7 +22,7 @@ vendor/firmware/a650_zap.b02|270bae014df75a913c6c124155f2cc85706258e6
 vendor/firmware/a650_zap.elf|1532cd68efcd2bdd985ea5fd32e1dd1219a6e4ec
 vendor/firmware/a650_zap.mdt|56c85041c9093270867b5a1f14f9a7016ce2c0d0
 
-# ADSP modules - MIUI
+# ADSP modules - MIUI 13.0.3.0.EU
 vendor/lib/rfsa/adsp/capi_v2_aptX_CLHDADV_Encoder.so|810a8fbbc0ea6e12979f327330c8b66b07467846
 vendor/lib/rfsa/adsp/capi_v2_aptX_CLHDAD_Speech_Decoder.so|1f568f739f627889ae24f1fc22e62ebb2d264eb5
 vendor/lib/rfsa/adsp/capi_v2_cirrus_sp.so|b2b10495c056cea36c988dab736b1119f2deaa41
@@ -30,13 +30,19 @@ vendor/lib/rfsa/adsp/capi_v2_dap_cpdp.so|8a89bfc289fad5442b163ff9107ce5e4b36fea6
 vendor/lib/rfsa/adsp/libMIAIHDR_skel.so|610ce9500b62cfa158cf4a87dd73ebf4a039845f
 vendor/lib/rfsa/adsp/libQ6MSFR_manager_skel.so|8f338b20fd8c92a601d74d273cdc3e1dfc32807a
 vendor/lib/rfsa/adsp/libSuperSensor_skel.so|4d796f47d7dda6aacbc6506e247e20962374cd66
-vendor/lib/rfsa/adsp/libarcsoft_hdrplus_hvx_skel.so|a81ff2800aa5c3bdd2c579b05aee155245ab768e
+vendor/lib/rfsa/adsp/libapps_mem_heap.so|738014e904331e99749f36c8f6c0c43b8c246fe6
+vendor/lib/rfsa/adsp/libarcsoft_hdrplus_hvx_skel.so|0d46522555fa04a0097043121fdb1306f8f00537
 vendor/lib/rfsa/adsp/libbitml_nsp_skel.so|c56b5c9688d38cc240163d8c8e1144e9ba628fbd
 vendor/lib/rfsa/adsp/libcalculator_domains_skel.so|3f0281e62ef2b36b68c1349d0dc12c8e53b5ee3e
 vendor/lib/rfsa/adsp/libcalculator_skel.so|ae8602bfbf9a08d4b1375d2691c880ca8bded757
 vendor/lib/rfsa/adsp/libcamera_nn_skel.so|e4a35174a93264b38fe210a3f99e5fb7be8dc39e
+vendor/lib/rfsa/adsp/libcvpdsp_skel.so|510791e46596949591fc283b5153fcf48c19c32c
+vendor/lib/rfsa/adsp/libdspCV_skel.so|88d2805c1e4af680dddc65f1ec6bccb339ef01dc
 vendor/lib/rfsa/adsp/libdsp_streamer_binning.so|00eb6acc7c864371b932f95ff98e98351c6508d8
+vendor/lib/rfsa/adsp/libfastcvadsp.so|e7a2b5bbde1c31d1d4a4ed20e93e06038b5e761d
+vendor/lib/rfsa/adsp/libfastcvdsp_skel.so|2d2275b43ea730d4329486e0a1f79f7894feaf7a
 vendor/lib/rfsa/adsp/libfrc_mobilenet.so|e36e4232f64e0c929fcc1b4940ff1ed4d3f28e9f
+vendor/lib/rfsa/adsp/libhexagon_nn_skel.so|55d2c71535acdcbbdd7b0a3fe475249c8d99eb08
 vendor/lib/rfsa/adsp/libmialgo_rfs_cdsp_skel.so|70b13b462577b85a40e1a089d44a5c84830df1fe
 vendor/lib/rfsa/adsp/libmobilenet_dsp.so|d0e909fa841111bd7ee6ac539d5896962b4a7e87
 vendor/lib/rfsa/adsp/libremosaichvx_skel.so|ad260101653de29712e757707d72b93988a49586
