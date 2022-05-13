@@ -488,8 +488,8 @@ vendor/lib64/vendor.qti.hardware.camera.device@3.5.so|29ba8a11713104965a264f0cc9
 # Camera (postproc) - from LA.UM.9.14.r1-18400.02-LAHAINA.QSSI12.0
 vendor/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so|afeca01f1fc2619ddf1aada01d42735ab9efa682
 
-# Consumer IR - MIUI
-vendor/lib64/hw/consumerir.default.so|017088aee275b32189a07179c8422a104599220c
+# Consumer IR - MIUI 13.0.3.0.EU
+vendor/lib64/hw/consumerir.default.so|20561195194d91bc51285ff456d93578f171ef52
 
 # Data - MIUI 13.0.3.0.EU
 vendor/firmware/ipa_fws.b00|7ee9b3855d94825e3ad588924377aee3f37a86ca
