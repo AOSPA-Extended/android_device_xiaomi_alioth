@@ -185,9 +185,9 @@ vendor/firmware/spk1_voice_delta.txt|c58d2c1e95c5e505fea9fbae81f38327595bd54c
 vendor/firmware/spk2_playback_delta.txt|cd914ddaf5ce0fc01c894ebdaeec294a8d84b352
 vendor/firmware/spk2_voice_delta.txt|8da529b1f58e27d9b5a042228a4d4f574baffa14
 
-# Charger (Battery Cryptographic) - MIUI
-vendor/bin/batterysecret|159b9cadfad08a10b39ff03e6d7c50d99e77685e
-vendor/etc/init/init.batterysecret.rc|218076e183706abcf32b762148169cab7a1d337d
+# Charger (Battery Cryptographic) - MIUI 13.0.3.0.EU
+vendor/bin/batterysecret|4518ae57527b49e567f17249c98562886680c4bb
+vendor/etc/init/init.batterysecret.rc|9abbe6fd82a0bd5b4499bfe141a5645e76e57606
 
 # Camera - MIUI
 vendor/etc/camera/CFR_para_UW_V01.bin|169c251d391309040684c4251b30bff6505b1e60
