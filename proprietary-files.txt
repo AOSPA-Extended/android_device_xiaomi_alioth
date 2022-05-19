@@ -594,6 +594,7 @@ vendor/etc/sensors/config/sns_geomag_rv.json|3116d81aa5d5f6c1514a57264a6f9268709
 vendor/etc/sensors/config/sns_gyro_cal.json|a70b0a79591bcd77e0c0a017ca9b656719ef78e6
 vendor/etc/sensors/config/sns_mag_cal.json|631cb3e7eccc3b84065c8d04a129c9b45cad9674
 vendor/etc/sensors/config/sns_nonui.json|09c8bf3441ee3e6ac6fbb5e05a473869e7b3a29f
+vendor/etc/sensors/config/sns_oem13.json|848b7ce907c8d23dc66acdf072fc84f0b0be4df5
 vendor/etc/sensors/config/sns_pedometer.json|de3bdf9102d87b490d3bff68cd139c24143dff6d
 vendor/etc/sensors/config/sns_rmd.json|fb2a34c3edcec62afeabdb676d8d4f449ef7353c
 vendor/etc/sensors/config/sns_rotv.json|30c0ffeaa6a8c7cafc05cf864c0c18ea77bd32d6
